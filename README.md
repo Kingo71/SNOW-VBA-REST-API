@@ -1,5 +1,5 @@
 # SNOW-VBA-REST-API
-Service Now REST API from Visual Basic For Application
+Service Now REST API function for Visual Basic For Application
 
 Usage :
 
