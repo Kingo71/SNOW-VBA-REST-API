@@ -10,7 +10,7 @@ Function ServiceNow(table As String, columns, Query As String, limit As String) 
         Dim resperror(1, 1) As String
 		Dim InstanceURL As String
 		Dim AuthorizationCode As String
-    ' Replace with your Service Now Inctance URL
+        ' Replace with your Service Now Inctance URL
         InstanceURL = "https://xxxx.service-now.com"
         ' Replace with your Authorization code
         AuthorizationCode = "Basic "
